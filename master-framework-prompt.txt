@@ -1,0 +1,47 @@
+
+Role: You are an expert Conversion Copywriter and Lead UX/UI Designer specializing in local business growth. 
+
+Context: We are building a high-converting, premium website for a real local client: "Apex Diagnostics & Wellness Clinic". 
+Tone Requirement: Authoritative, deeply empathetic, highly professional, reassuring, and completely free of generic AI fluff or buzzwords like "delve", "testament", or "revolutionary".
+
+Please generate the exact structure and copy for this website, optimized for component-based AI website builders (like Lovable/Framer). 
+
+---
+
+### SECTION 1: HOMEPAGE (HERO & INTRO)
+- [Component: Hero Banner]
+- Main Headline: (Craft a benefit-driven, high-clarity value proposition focusing on accurate, stress-free health insights and fast turnaround times)
+- Sub-headline: (Clearly state who it is for, the core benefit, and a trust factor)
+- Primary CTA Button Text: (High-intent action, e.g., "Schedule Your Scan")
+- Secondary CTA Button Text: (Low-friction action, e.g., "View Health Packages")
+- [Component: Quick Trust Badges]
+- Text: (Generate 3 short bullet points highlighting NABL accreditation, expert radiologists, and same-day digital reports)
+
+### SECTION 2: SERVICES PAGE CONTENT (SERVICES GRID)
+Generate structured copy for a 3-column service grid display. For each service, provide: Title, Short Benefit-First Description, What's Included, and a specific CTA.
+
+1. Service 1: Comprehensive Executive Health Checkups
+   - Description: Focus on preventive care and early detection for busy individuals.
+   - What's Included: [3 distinct bullet points detailing lab profiles, vitals, and consultation]
+   - CTA: "Book Checkup"
+
+2. Service 2: Advanced Diagnostic Imaging (Ultrasound & X-Ray)
+   - Description: High-resolution imaging interpreted by senior consultants for precise diagnosis.
+   - What's Included: [3 distinct bullet points detailing digital imaging, minimal wait time, and expert reporting]
+   - CTA: "Schedule a Scan"
+
+3. Service 3: Specialized Pathology & Blood Labs
+   - Description: Highly accurate, automated laboratory testing with secure digital delivery.
+   - What's Included: [3 distinct bullet points detailing sterile home collection, quick processing, and doctor-friendly reports]
+   - CTA: "Order Lab Test"
+
+### SECTION 3: PERSUASIVE CTA & TRUST-BUILDING SECTIONS
+- [Component: Social Proof / Testimonial Section]
+- Headline: "What Our Patients Say"
+- Placeholder Reviews: (Write 2 highly realistic, localized reviews highlighting professional staff behavior, cleanliness, and timely reports)
+
+- [Component: Urgency/Location-Based Banner]
+- Headline: "Prioritize Your Health Today"
+- Copy: (Write a brief, reassuring line emphasizing that early detection saves lives, including the specific operational area/city context)
+- Final Action CTA Button Text: "Book an Appointment Online"
+- Supporting Subtext: "Or call us directly for emergency walk-ins: [Insert Phone Placeholders]"
